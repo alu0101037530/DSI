@@ -75,11 +75,11 @@ IdentityFile /home/usuario/.ssh/miclaveparagithub
 Creamos unos directorios donde clonar github, y una vez creados procedemos a clonarlo. Sabremos que ha funcionado cuando veamos la carpeta de lo que hemos clonado en el directorio corespondiente.
 
 usuario@ubuntu:~$ cd src/sytw/
+
 usuario@ubuntu:~/src/sytw$ ls
 express-start
 
 Como ya sabemos que se ha creado con exito, entramos en la carpeta Hello perteneciente al repositorio y localizamos la direccion ip del ejemplo donde se esta escuchando la app.
-La introducimos en la terminal y obtenemos el siguiente resultado:
-
+La introducimos en el navegador y nos permite accede a la pagina de bienvenida.
 
 Solo nos quedaria hacer logout de la maquina.
